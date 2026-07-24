@@ -173,7 +173,7 @@ Azure DevOps exposes a large surface area. As a result, our Azure DevOps MCP Ser
 
 For example, use `"-d", "core", "work", "work-items"` to load only Work Item related tools (see the example below).
 
-```json
+```json 
 {
   "inputs": [
     {
